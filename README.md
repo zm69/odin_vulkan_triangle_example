@@ -1,5 +1,5 @@
 # odin_vulkan_triangle_example
-The Vulkan hello world (triangle) example is divided into parts for learning purposes.
+The Vulkan "hello world" (triangle) example is divided into parts for learning purposes.
 
 It was tested on Windows only. It might work on other OSes too.
 
