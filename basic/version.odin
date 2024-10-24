@@ -1,0 +1,5 @@
+package g1_basic
+
+G1_VERSION_MAJOR :: 0
+G1_VERSION_MINOR :: 0
+G1_VERSION_PATCH :: 1

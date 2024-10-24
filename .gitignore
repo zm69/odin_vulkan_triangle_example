@@ -1,0 +1,11 @@
+# 
+out/debug/*.exe
+out/debug/*.pdb
+out/spv/*.spv
+*.sublime-workspace
+
+# this is just for UI
+ols.json
+odinfmt.json
+*.code-workspace
+.vscode

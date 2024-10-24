@@ -1,0 +1,6 @@
+package ode_basic
+
+ODE_VERSION_MAJOR : u32 = 0
+ODE_VERSION_MINOR : u32 = 0
+ODE_VERSION_PATCH : u32 = 1
+
