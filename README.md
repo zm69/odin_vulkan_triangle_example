@@ -27,7 +27,7 @@ In a real engine, the code organization would be different.
 
 | Description      | Link     |
 | ------------- | ------------- |
-| All sources in one gist by laytan | https://gist.github.com/laytan/ba57af3e5a59ab5cb2fca9e25bcfe262 | 
+| All code in one gist by laytan | https://gist.github.com/laytan/ba57af3e5a59ab5cb2fca9e25bcfe262 | 
 | Understanding Vulkan objects | https://gpuopen.com/learn/understanding-vulkan-objects/ |
 | vkguide.dev tutorial | https://vkguide.dev/ |
 | Vulkan samples | https://github.com/KhronosGroup/Vulkan-Samples?tab=readme-ov-file |
