@@ -22,3 +22,15 @@ In a real engine, the code organization would be different.
 ## Result should be this:
 
 ![alt text](https://github.com/zm69/odin_vulkan_triangle_example/blob/main/example.png?raw=true)
+
+## Useful Links
+
+| Description      | Link     |
+| ------------- | ------------- |
+| All sources in one gist by laytan | https://gist.github.com/laytan/ba57af3e5a59ab5cb2fca9e25bcfe262 | 
+| Understanding Vulkan objects | https://gpuopen.com/learn/understanding-vulkan-objects/ |
+| vkguide.dev tutorial | https://vkguide.dev/ |
+| Vulkan samples | https://github.com/KhronosGroup/Vulkan-Samples?tab=readme-ov-file |
+
+
+
