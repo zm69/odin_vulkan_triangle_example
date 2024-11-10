@@ -6,7 +6,6 @@ It was tested on Windows only. It might work on other OSes too.
 ## How to understand the code
 
 Start from main.odin file. The code there is very simple. It uses the code from the /engine folder. The source code in the /engine folder is divided into parts for easier learning and understanding.
-In a real engine, the code organization would be different.
 
 ## How to run the code 
 
